@@ -15,3 +15,7 @@ Instalar e configurar a utlização da biblioteca os:
 Para executar o projeto basta digitar no terminal o seguinte comando:
 
  `$ node stats.js`
+ 
+ Quando baixar ou clonar a aplicação basta executar o comando:
+ `$ npm install`
+ 
